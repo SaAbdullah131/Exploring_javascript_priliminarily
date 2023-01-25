@@ -7,6 +7,11 @@
  * 6.Average
  * 7.Comparison :>,<,==,!=,>=,<=;
  * 8.oikik: 2 kilo apple 9 kilo mango .
- * 45,243,243043.. sum,sub,avg,
- * 9.Series :
+ * 9.45,243,243043.. sum,sub,avg,
+ * 10.Series
+ * ::::Extra :::::
+ * 1.Prime
+ * 2.Permutation.
+ * 3. :::: Always :::
+ * *If needed I should learn....
  */
