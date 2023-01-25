@@ -12,7 +12,8 @@ var myLocation="Mirpur-02,Dhaka";
 var special ="Saiyee";
 
 // boolean variable true or false
-    var serious= true;
+// 
+    var serious= true; 
     var isFullMark= true;
     var isSingle=false;
 
