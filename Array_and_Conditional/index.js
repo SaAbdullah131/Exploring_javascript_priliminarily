@@ -14,4 +14,4 @@ var positionIndex=numbers.indexOf(89);
 var position =numbers.indexOf(100);
 
 console.log(positionIndex);
-console.log(position);
+console.log(position);// when element not in array get -1 ..
