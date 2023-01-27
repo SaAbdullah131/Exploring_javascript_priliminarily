@@ -23,7 +23,9 @@ price2-=5;//shorthands
 price3*=5;// multiplcation shorthand
 price4/=3;// division shorthand
 price5%=3;// reminder shorthand 23/3 =2 reminder 2.
-
+age =10;
+age++; // increase 1 just ..11
+agee--;// deincrease 1 ..9
 console.log(price1);
 console.log(price2);
 console.log(price3);
