@@ -18,3 +18,6 @@ while(num >= 1){
 for (var i=10;i>=1;i--){
     console.log(i);
 }
+var i=0;
+for(var i=0;i<5;i++){};
+console.log(i);
