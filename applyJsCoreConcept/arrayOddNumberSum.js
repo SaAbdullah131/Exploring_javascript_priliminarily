@@ -15,7 +15,10 @@ function OddNumber(arr){
             oddNum.push(arr[i]);
         }
     } 
+    return oddNum;
 }
 var arr=[10,11,5,6,7,9,15,13];
-var SumOfOdd=arrayOddNum(arr);
+const oddNumbers=OddNumber(arr);
+console.log(oddNumbers);
+var SumOfOdd=arrayOddNum(oddNumbers);
 console.log("sum of array odd number:",SumOfOdd);
