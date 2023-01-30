@@ -11,6 +11,13 @@ const friendsAges={
     Saidur:22,
     Khaliq:30
 }
+const keyGulo =Object.keys(friendsAges);
+const ValueGulo=Object.values(friendsAges);
+for(var i=0;i<keyGulo.length;i++){
+    var proName=keyGulo[i];
+    var proVal=ValueGulo[i];
+    console.log(proName,proVal);
+}
 const shoppingCart ={
     books:3,
     sunglass:1,
@@ -19,7 +26,6 @@ const shoppingCart ={
     pen:25,
     shoes:2,
 }
-
 // keys
 const keys=Object.keys(shoppingCart);
 console.log(keys,"\n");
@@ -28,8 +34,8 @@ const values=Object.values(shoppingCart);
 console.log(values);
 
 for(var i=0;i<keys.length;i++){
-    propertyName=keys[i];
-    propertyValue=values[i];
+    var propertyName=keys[i];
+    var propertyValue=values[i];
     console.log(propertyName,propertyValue);
 }
 
