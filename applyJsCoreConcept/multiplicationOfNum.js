@@ -8,3 +8,4 @@ return result;
 }
 const result=multiplicationOfNumbers(7);
 console.log(result);
+let item=80;
