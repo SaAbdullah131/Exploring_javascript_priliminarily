@@ -1,4 +1,6 @@
 
-const student = ["Rayhan","Alvi","Anik","Arjun","Ayman"];
+const student = ["Rayhan","Alvi","Rion","Mukter","Sumon"];
 
-console.log(student[0]);
+for(let i =0;i<5;i++) {
+    console.log(student[i],student[i].toLocaleLowerCase());
+}
