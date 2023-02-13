@@ -1,6 +1,9 @@
 // repeat using loop
 // there are mainly three types of loop.
 //1.for(When we know the range)
+//1.1 Range
+//1.2->For in
+//1.3-> For of loop
 //2.while(when we don't know the range ,but know the condition)
 //3.Do while (one iteration should be do wheather the condition false)
 for(let i=1;i<=100;i++){
